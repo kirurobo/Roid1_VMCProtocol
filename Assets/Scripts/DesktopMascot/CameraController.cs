@@ -72,7 +72,7 @@ public class CameraController : MonoBehaviour
 
     void Update()
     {
-        if (!currentCamera.isActiveAndEnabled) return;
+        if (!currentCamera || !currentCamera.isActiveAndEnabled) return;
         if (!Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.RightShift))
         {
             HandleMouse();
