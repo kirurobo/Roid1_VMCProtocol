@@ -1,5 +1,8 @@
 # Roid1 URDF を VMCプロトコル で動かすもの
 
+![20220716](https://user-images.githubusercontent.com/1019117/179375166-cd2939f0-bf31-4f69-937e-5085ca7eb334.jpg)
+
+
 ## 開発環境
 - Unity 2020.3.20
 
