@@ -8,11 +8,11 @@
       "hash": "e9157d7832f9f79c42660b820e5c29d17b880446"
     },
     "com.kirurobo.uniwinc": {
-      "version": "https://github.com/kirurobo/UniWindowController.git?path=/UniWinC/Assets/Kirurobo/UniWindowController#v0.8.4",
+      "version": "https://github.com/kirurobo/UniWindowController.git?path=/UniWinC/Assets/Kirurobo/UniWindowController",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "d5704d880724ff783e61908f8c0b8c253946101c"
+      "hash": "d6905eb94f2b043af32893c6dd0b8a641b430bb1"
     },
     "com.unity.collab-proxy": {
       "version": "1.11.2",
